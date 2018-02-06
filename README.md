@@ -40,4 +40,4 @@ Right now, stan_svi is the most promising approach. The parameters of the HMM st
 
 My implementation of a HMM is almost certainly wrong. This is in helper_funcs. I am not sure how to implement the guessing which observation maximizes the probability of the sequence, because it seems like it would need to be done in the middle of the SVI step.
 
-As I have found, more bugs in code and implementation will show up as each bug is resolved. Good luck.
+Good luck. If you have any questions on what I have done, please email me at cooper.lorsung@gmail.com
