@@ -6,9 +6,13 @@ I'll organize this readme into a few sections to give a detailed overview of wha
 # Background
 
 Here is the paper I originally began working from: http://proceedings.mlr.press/v32/johnson14.pdf
+
 Here is a paper that goes more in depth with the math: https://arxiv.org/pdf/1601.00670.pdf
+
 Here is a good explanation on what Hidden Markov Models are: http://courses.media.mit.edu/2010fall/mas622j/ProblemSets/ps4/tutorial.pdf, http://users-cs.au.dk/cstorm/courses/PRiB_f12/slides/hidden-markov-models-1.pdf
+
 STAN information: http://mc-stan.org/users/
+
 pySTAN api: http://pystan.readthedocs.io/en/latest/api.html
 
 
